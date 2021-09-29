@@ -57,9 +57,7 @@ Some of the NLP tasks include the following:
 
 
 
-
-
-#### This repository contains followinf use case of natural language processing:
+## This repository contains followinf use case of natural language processing:
 1.  Fake news detection - Naive Bayes, Logistic Regression, Decision tree, Random forest and SVM
 2.  Language classification -Naive Bayes 
 3.  Named entity recognition - LSTM
