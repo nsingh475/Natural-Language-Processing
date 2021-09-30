@@ -4,6 +4,7 @@ Language classification refers to the grouping of related languages into the sam
 
 #### Naive Bayes
 Naive Bayes classifiers are a family of simple "probabilistic classifiers" based on Bayes' theorem with which assumes that each input variables are independent.Naive Bayes is a classification algorithm that is suitable for binary and multiclass classification.
+
 Reference - https://towardsdatascience.com/all-about-naive-bayes-8e13cef044cf
 
 
