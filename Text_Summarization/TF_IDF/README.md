@@ -11,3 +11,9 @@ TF(w) = (Number of times term w appears in a document) / (Total number of terms 
 IDF(w) = log_e(Total number of documents / Number of documents with term w in it)
 
 TFIDF(w) = TF(w) * IDF(w)
+
+
+#### Some useful links for TF-IDF:
+1. https://towardsdatascience.com/text-summarization-using-tf-idf-e64a0644ace3
+2. https://medium.com/@acrosson/summarize-documents-using-tf-idf-bdee8f60b71
+
