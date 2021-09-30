@@ -1,6 +1,6 @@
 # Text Summarization
 
-Text summarization refers to the task of reducing the size of a lond text document without loosing the important and essential information.
+Text summarization refers to the task of reducing the size of a long text documents without loosing the important and essential information.
 
 There are two major text summarization approaches:
 1. abstractive 
